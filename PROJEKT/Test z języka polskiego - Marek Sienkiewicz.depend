@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1358696770 source:c:\users\marek\desktop\test z jêzyka polskiego - marek sienkiewicz\main.cpp
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<time.h>
+
+1358803399 source:c:\users\marek\desktop\test z jêzyka polskiego - marek sienkiewicz\projekt\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<time.h>
+
+1358803399 source:d:\marek\programowanie\test z polskiego\test z jêzyka polskiego - marek sienkiewicz\projekt\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<time.h>
+
